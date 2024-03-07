@@ -1,0 +1,59 @@
+{
+   "id": 1,
+   "date_release": "28.06.2023",
+   "id_overrun_pieces": {
+      "id": 5,
+      "name": "\u0428\u0442 -"
+   },
+   "id_overrun_kg": {
+      "id": 6,
+      "name": "---"
+   },
+   "id_work_item": {
+      "id": 2,
+      "id_GN": {
+         "id": 3,
+         "name": "GN2220C/B",
+         "number": 3
+      },
+      "id_factory_change": {
+         "id": 3,
+         "name": "\u0421\u043c\u0435\u043d\u0430 \u0412"
+      },
+      "id_factory_type_change": {
+         "id": 2,
+         "name": "\u0414\u043d\u0435\u0432\u043d\u0430\u044f"
+      },
+      "responsible_person_material": "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0430 \u041d\u0430\u0434\u0435\u0436\u0434\u0430 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432\u043e\u0432\u043d\u0430",
+      "responsible_person_item": "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0430 \u041d\u0430\u0434\u0435\u0436\u0434\u0430 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432\u043e\u0432\u043d\u0430",
+      "comment_item": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b - \u0432\u044b\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0432\u0441\u0435\u0433\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430,",
+      "comment_material": "\u041a\u0430\u0447\u0435\u0441\u0442\u0432\u043e - \u0444\u0430\u043a\u0442. \u0442\u043e\u043b\u0449\u0438\u043d\u0430 \u043b\u0435\u043d\u0442\u044b \u043d\u0438\u0436\u0435 \u043d\u043e\u043c\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0439 (\u043f\u043e \u0444\u0430\u043a\u0442\u0443:___), 0,69-0,71; \u0448\u0430\u0433 \u0442/\u043a 12; \u0444\u0430\u043a\u0442 11-12 \u043c\u043c",
+      "personal": "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0430 \u041d\u0430\u0434\u0435\u0436\u0434\u0430 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432\u043e\u0432\u043d\u0430",
+      "job_title": {
+         "id": 29,
+         "title": "\u041d\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a \u0441\u043c\u0435\u043d\u044b"
+      },
+      "id_item": {
+         "id": 7,
+         "name": "\u0422313 \u0414",
+         "create_date": "2023-06-28",
+         "vendor_code": 63511
+      },
+      "id_material": {
+         "id": 23,
+         "name": "\u041f\u0421505*0,7",
+         "create_date": "2023-06-28"
+      },
+      "date_release": "28.06.2023",
+      "item_plan_count": "0",
+      "item_fact_count": "0",
+      "material_plan_kg": "0",
+      "material_fact_kg": "0",
+      "material_plan_based_on_fact_kg": "0",
+      "date_create": "2023-06-29"
+   },
+   "date_create": "2023-06-29",
+   "deviation_item_count": "0",
+   "deviation_material_kg": "0",
+   "deviation_material_kg_percent": "0"
+}
